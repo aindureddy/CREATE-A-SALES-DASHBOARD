@@ -22,7 +22,7 @@ This Power BI project is a Sales Dashboard designed to visualize key business in
 The dashboard allows users to filter data dynamically and gain actionable insights into sales patterns.
 
 🔹 Tech Used: Power BI
-📂 Deliverable: CREATE A SALES  DASHBOARD.pbix with fully interactive visuals
+📂 DELIVERABLE: A POWER BI FILE(.PBIX) WITH INTERACTIVE VISUALS AND SLICERS.
 
 **OUTPUT** :
 ![Image](https://github.com/user-attachments/assets/3ba0df30-5efc-4ab5-a32d-8c83b8b2fddf)
